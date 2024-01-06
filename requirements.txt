@@ -1,0 +1,4 @@
+gspread
+argparse
+oauth2client
+pandas
